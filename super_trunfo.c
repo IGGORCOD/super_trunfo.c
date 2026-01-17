@@ -1,6 +1,4 @@
 #include <stdio.h>
-
-
 int main(){
     //Inicializei todas as variaveis das 2 cartas.
     char estado1, estado2;
